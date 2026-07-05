@@ -23,7 +23,7 @@ Final-year B.Tech (AI & Data Science) student focused on building end-to-end dat
 <td>198</td>
 <td>AI / ML, Software Development</td>
 <td>Final Year Student</td>
-<td>Chennai, TN</td>
+<td>Hosur, TN</td>
 </tr>
 </table>
 
