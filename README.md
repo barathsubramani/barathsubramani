@@ -2,7 +2,7 @@
 
 # Barath S
 
-**Data Science & AI Student &nbsp;|&nbsp; Python, ML & Generative AI**
+**Data Science & AI Student &nbsp;|&nbsp; Python, ML, Data Science & Generative AI**
 
 <a href="https://www.linkedin.com/in/barath-s-238113306/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:barathsubramani07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -58,7 +58,7 @@ Final-year B.Tech (AI & Data Science) student focused on building end-to-end dat
 **Next Forecast! - A Minimalistic Python Weather Dashboard with API Integration**
 `Python` `LangChain` `FAISS` `GPT` `FastAPI`
 
-Next Forecast! is a dynamic weather forecasting dashboard powered by API integration. It provides weather predictions for the next 3 hours upto 1 to 5 days, presenting data in two formats: temperature trends displayed as interactive graphs, and sky conditions categorized by cloud types. The web application is developed using Streamlit, a lightweight and efficient Python framework designed for building streamlined and responsive web interfaces.
+A dynamic weather forecasting dashboard powered by API integration providing weather predictions for the next 3 hours upto 1 to 5 days, presenting data
 
 <a href="https://github.com/barathsubramani/forecast-dashboard">View Repository</a>
 
@@ -101,7 +101,9 @@ Built a customer segmentation pipeline using Pandas and Scikit-learn (K-means cl
 - Python for Data Science — Udemy (2023)
 - Dynamic Public Speaking — Coursera (2023)
 
-
+<div>
+  
+</div>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/barath-s-238113306/">LinkedIn</a> &nbsp;·&nbsp; barathsubramani07@gmail.com &nbsp;·&nbsp; <a href="https://github.com/barathsubramani">GitHub</a> &nbsp;·&nbsp; Hosur, Tamil Nadu
