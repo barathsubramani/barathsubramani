@@ -12,13 +12,13 @@
 
 <br/>
 
-Final-year B.Tech (AI & Data Science) student focused on building end-to-end data and AI applications — from ML pipelines to Generative AI backends. Completed a data analytics internship and several independent projects. Open to Data Science / ML roles.
+Final-year B.Tech (AI & Data Science) student focused on building end-to-end data and AI applications - from ML pipelines to Generative AI backends. Completed a data analytics internship and several independent projects. Open to Data Science / ML, Developer roles.
 
 <br/>
 
 | Repositories | Focus Area | Status | Location |
 |:---:|:---:|:---:|:---:|
-| **198** | AI / ML | Final Year Student | Chennai, TN |
+| **198** | AI / ML, Software Development | Final Year Student | Chennai, TN |
 
 <br/>
 
