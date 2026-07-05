@@ -120,6 +120,10 @@ Built a customer segmentation pipeline using Pandas and Scikit-learn (K-means cl
 - Python for Data Science — Udemy (2023)
 - Dynamic Public Speaking — Coursera (2023)
 
+<div>
+  
+</div>
+
 <div align="center">
 
 **Contact**
