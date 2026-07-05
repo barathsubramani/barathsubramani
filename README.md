@@ -106,30 +106,19 @@ Scheduled pipeline that fetches, cleans, and stores weather data, maintaining 99
 
 ## Experience
 
-**Data Analytics Intern — Retech Solutions Pvt. Ltd.** (June 2024 – July 2024)
+**Data Analytics Intern - Retech Solutions Pvt. Ltd.** (June 2024 – July 2024)
 Built a customer segmentation pipeline using Pandas and Scikit-learn (K-means clustering) on SQL-queried data, identifying 4 distinct customer segments and presenting findings to guide marketing strategy.
 
 <br/>
 
 ## Education & Certifications
 
-**B.Tech, Artificial Intelligence & Data Science** — Saveetha Engineering College, Anna University (2022 – 2026), CGPA 7.64/10
+**B.Tech, Artificial Intelligence & Data Science** - Saveetha Engineering College, Anna University (2022 – 2026), CGPA 7.64/10
 
 - GenAI Powered Data Analytics — Tata (2026)
 - Elite Certificate in Internet of Things — NPTEL, IIT Kharagpur (2024)
 - Python for Data Science — Udemy (2023)
 - Dynamic Public Speaking — Coursera (2023)
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=barathsubramani&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barathsubramani&layout=compact&theme=default&hide_border=true" height="160"/>
-</div>
-
-<br/>
 
 <div align="center">
 
