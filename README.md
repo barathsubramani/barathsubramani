@@ -95,14 +95,13 @@ Built a customer segmentation pipeline using Pandas and Scikit-learn (K-means cl
 
 ## Education & Certifications
 
-**B.Tech, Artificial Intelligence & Data Science** - Saveetha Engineering College, Anna University (2022 – 2026), CGPA 7.64/10
+**B.Tech, Artificial Intelligence & Data Science** - Saveetha Engineering College, Anna University (2022 – 2026), **CGPA 7.64/10**
 
 - GenAI Powered Data Analytics — Tata (2026)
 - Elite Certificate in Internet of Things — NPTEL, IIT Kharagpur (2024)
 - Python for Data Science — Udemy (2023)
 - Dynamic Public Speaking — Coursera (2023)
 
-## Contact
 
 <div align="center">
 
