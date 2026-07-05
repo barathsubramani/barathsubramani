@@ -55,12 +55,12 @@ Final-year B.Tech (AI & Data Science) student focused on building end-to-end dat
 <tr>
 <td width="33%" valign="top">
 
-**AI Document Q&A — RAG Backend**
+**Next Forecast! - A Minimalistic Python Weather Dashboard with API Integration**
 `Python` `LangChain` `FAISS` `GPT` `FastAPI`
 
-Backend that answers natural-language questions over large document collections. Reduced response latency by 35% while keeping ~87% answer accuracy.
+Next Forecast! is a dynamic weather forecasting dashboard powered by API integration. It provides weather predictions for the next 3 hours upto 1 to 5 days, presenting data in two formats: temperature trends displayed as interactive graphs, and sky conditions categorized by cloud types. The web application is developed using Streamlit, a lightweight and efficient Python framework designed for building streamlined and responsive web interfaces.
 
-<a href="https://github.com/barathsubramani">View Repository</a>
+<a href="https://github.com/barathsubramani/forecast-dashboard">View Repository</a>
 
 </td>
 <td width="33%" valign="top">
@@ -70,7 +70,7 @@ Backend that answers natural-language questions over large document collections.
 
 Web app for comparing shipping rates in real time with AI-powered recommendations. Full REST API with authentication and error handling.
 
-<a href="https://github.com/barathsubramani">View Repository</a>
+<a href="https://github.com/barathsubramani/Project-Work-Phase1">View Repository</a>
 
 </td>
 <td width="33%" valign="top">
@@ -80,13 +80,12 @@ Web app for comparing shipping rates in real time with AI-powered recommendation
 
 Scheduled pipeline that fetches, cleans, and stores weather data, maintaining 99.8% data integrity across all runs.
 
-<a href="https://github.com/barathsubramani">View Repository</a>
+<a href="https://github.com/barathsubramani/weatherapi">View Repository</a>
 
 </td>
 </tr>
 </table>
 
-*Update the links above once these projects are pushed to their own repositories.*
 
 ## Experience
 
